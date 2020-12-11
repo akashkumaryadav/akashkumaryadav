@@ -1,4 +1,4 @@
-<img src="https://github.com/akashkumaryadav/akashkumaryadav/blob/master/have.png" style="width:100%"/>
+
 
 ### Hi there 👋
 <!---
